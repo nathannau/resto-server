@@ -1,7 +1,7 @@
 {
-  "name": "server.resto.nathannau.com",
+  "name": "resto-server",
   "version": "1.0.0",
-  "description": "Gestion de commandes de resto - server part",
+  "description": "Gestion de commandes de resto - serveur",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
